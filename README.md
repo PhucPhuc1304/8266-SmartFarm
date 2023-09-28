@@ -7,7 +7,7 @@
 - 1 contractor 1 pha 20A
 - 2 Van điện từ 49
 # IDE:
-- Arduino IDE
+- Arduino
 - Các thư viện
 - Blynk 2.0
 # Sơ đồ đấu nối:
